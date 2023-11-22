@@ -25,7 +25,11 @@ Take a screenshots of the output.
 ## step 8: 
 Push it to 'README.md' and push it to the repositary
 # Code:
-```<html>
+
+## map.html
+
+```
+<html>
 <head>
 <title>My City</title>
 </head>
@@ -49,10 +53,13 @@ Push it to 'README.md' and push it to the repositary
 </map>
 </center>
 </body>
- </html>```
+ </html>
+ ```
 
 
-```## college.html
+## college.html
+
+```
 <html>
     <head>
         <h1 align="center"><font color="red">jaya college</font></h1>
@@ -66,9 +73,12 @@ Push it to 'README.md' and push it to the repositary
         or contacting the college directly. You can also look for recent reviews or news articles related to the college for more insights.
         </p>
     </body>
-</html>```
+</html>
+```
 
-```##factory.html
+## factory.html
+
+```
 <html>
     <head>
         <h1 align="center"><font color="green">engine factory</font></h1>
@@ -85,9 +95,11 @@ Push it to 'README.md' and push it to the repositary
             for the most current information about the engine factory at Avadi or any developments related to it.
         </p>
     </body>
-</html>```
+</html>
+```
 
-```## school.html
+## school.html
+```
 <html>
     <head>
         <h1 align="center"><font color="green">air force school</font></h1>
@@ -106,9 +118,11 @@ Push it to 'README.md' and push it to the repositary
                 through direct inquiry with the relevant authorities.    
         </p>
     </body>
-</html>```
+</html>
+```
 
-```##school.new.html
+## school.new.html
+```
 <html>
     <head>
         <h1 align="center"><font color="green">HVF</font></h1>
@@ -126,9 +140,12 @@ Push it to 'README.md' and push it to the repositary
         institutions in Avadi for more details.    
         </p>
     </body>
-</html>```
+</html>
+```
 
-```##stadium.html
+## stadium.html
+
+```
 <html>
     <head>
         <h1 align="center"><font color="orange"></font></h1>
@@ -156,4 +173,4 @@ Push it to 'README.md' and push it to the repositary
 ![Alt text](sch.png)
 ![Alt text](stad.png)
 # Result:
-the image map code is successfully created
+The image map code is successfully created
